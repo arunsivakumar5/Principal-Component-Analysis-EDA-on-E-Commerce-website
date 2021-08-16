@@ -31,5 +31,8 @@ The dataset for this project contains 72 columns of data.We aim to find insight 
 PCA is used to find the factors in the website that influences the user to make recommendations of shopping websites to his/her friends
 
 **Dataset Source:**   
-This E-Commerce dataset Contains information from https://www.kaggle.com/smokingkrils/ecommerce-platform-analysis-and-prediction/download from kaggle website
+
+This E-Commerce dataset Contains information from https://www.kaggle.com/smokingkrils/ecommerce-platform-analysis-and-prediction/download 
+
+from kaggle website
 
