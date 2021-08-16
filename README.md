@@ -1,6 +1,8 @@
 # Principal-Component-Analysis-EDA-on-E-Commerce-website
 In this project, we will perform Exploratory data analysis ,dimensionality reduction on E-commerce website to find the factors influencing User's shopping website recommendations  using PCA . We aim to use geo pandas to plot the users location to categorize them by various attributes. 
 
+[Notebook link]https://github.com/arunsivakumar5/Principal-Component-Analysis-EDA-on-E-Commerce-website/blob/main/Principal%20Component%20Analysis%2C%20EDA%20on%20E-Commerce%20website.ipynb
+
 **Libraries:**
 
   [geopandas](https://geopandas.org/)
