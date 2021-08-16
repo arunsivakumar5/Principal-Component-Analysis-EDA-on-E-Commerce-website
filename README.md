@@ -1,4 +1,5 @@
 
+
 ![Recommendations_plot](https://user-images.githubusercontent.com/86889886/129640550-1b72afa4-08de-4d0f-a247-cc78eda11c13.png)
 # Principal-Component-Analysis-EDA-on-E-Commerce-website
 In this project, we will perform Exploratory data analysis ,dimensionality reduction on E-commerce website to find the factors influencing User's shopping website recommendations  using PCA . We aim to use geo pandas to plot the users location to categorize them by various attributes. 
@@ -46,3 +47,5 @@ This E-Commerce dataset Contains information from https://www.kaggle.com/smoking
 from kaggle website
 
 ![PCA](https://user-images.githubusercontent.com/86889886/129640729-c6f667e9-4343-4995-9b9b-6d0ce8c6cf59.png)
+
+![Main Factors](https://user-images.githubusercontent.com/86889886/129641399-0989bd30-b65c-44fa-ac89-251ca62a242e.png)
