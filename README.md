@@ -5,7 +5,6 @@ In this project, we will perform Exploratory data analysis ,dimensionality reduc
 
 
   [geopandas](https://geopandas.org/)
-  
   [Sklearn](https://scikit-learn.org/stable/index.html)                  
   [Numpy](https://numpy.org/)                  
   [Pandas](https://pandas.pydata.org/) 
