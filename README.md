@@ -46,6 +46,10 @@ This E-Commerce dataset Contains information from https://www.kaggle.com/smoking
 
 from kaggle website
 
+**PCA(components=2)**
+
 ![PCA](https://user-images.githubusercontent.com/86889886/129640729-c6f667e9-4343-4995-9b9b-6d0ce8c6cf59.png)
+
+**Main Factors**
 
 ![Main Factors](https://user-images.githubusercontent.com/86889886/129641399-0989bd30-b65c-44fa-ac89-251ca62a242e.png)
